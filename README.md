@@ -82,7 +82,8 @@ endmodule
 
 
 ## RTL realization
-![output2](https://github.com/Ramsai1234/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/commit/9a34aa414ed4fcf1c1625e83b84bc6f48350a996?raw=true)
+![Screenshot (99)](https://user-images.githubusercontent.com/94269989/189493088-011fe318-cb4a-4aa8-bbc5-250f49e204e3.png)
+
 
 
 ## Result:
